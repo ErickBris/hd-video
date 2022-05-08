@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\VISHAL\ANDRODI_STUDIO_WORKSPACE\HD_VIDEO\HDVideoStartapp\build\intermediates\exploded-aar\HD_VIDEO\actionbarsherlock\unspecified\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5896b0a4e377ac4242eb2bc785220c1c4fc052f4">
+        <dex dex="E:\VISHAL\ANDRODI_STUDIO_WORKSPACE\HD_VIDEO\HDVideoStartapp\build\intermediates\pre-dexed\debug\android-support-v4-091ffe1132616a70794779cc86a00c9e9d4aac01.jar" />
+    </item>
+    <item
+        jar="E:\VISHAL\ANDRODI_STUDIO_WORKSPACE\HD_VIDEO\HDVideo\libs\libGoogleAnalyticsServices.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e887c6c9b31b39a39b0eaba981448b78902ea813">
+        <dex dex="E:\VISHAL\ANDRODI_STUDIO_WORKSPACE\HD_VIDEO\HDVideo\build\intermediates\pre-dexed\debug\libGoogleAnalyticsServices-3ea21cd6ee3844fba77bf57745e3b0e4760c7f06.jar" />
+    </item>
+    <item
+        jar="E:\VISHAL\ANDRODI_STUDIO_WORKSPACE\HD_VIDEO\HDVideo\build\intermediates\exploded-aar\HD_VIDEO\google-play-services_lib\unspecified\libs\google-play-services.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7676c0cb230efa6ac41c47867d372ed5913029d4">
+        <dex dex="E:\VISHAL\ANDRODI_STUDIO_WORKSPACE\HD_VIDEO\HDVideo\build\intermediates\pre-dexed\debug\google-play-services-9104a59bd00c946b86d10bd950f3ca7afad38685.jar" />
+    </item>
+    <item
+        jar="E:\VISHAL\ANDRODI_STUDIO_WORKSPACE\HD_VIDEO\HDVideoStartapp\libs\Parse-1.4.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8daf146aea8cd5245bb90f802f2cd4b8dd855eca">
+        <dex dex="E:\VISHAL\ANDRODI_STUDIO_WORKSPACE\HD_VIDEO\HDVideoStartapp\build\intermediates\pre-dexed\debug\Parse-1.4.3-27756bea4e1f8c7473dc007a2bf87409fd86a928.jar" />
+    </item>
+    <item
+        jar="E:\VISHAL\ANDRODI_STUDIO_WORKSPACE\HD_VIDEO\HDVideo\build\intermediates\exploded-aar\HD_VIDEO\google-play-services_lib\unspecified\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a2b54dbe22f4ab8940295f9e6e3c7459d728f8ee">
+        <dex dex="E:\VISHAL\ANDRODI_STUDIO_WORKSPACE\HD_VIDEO\HDVideo\build\intermediates\pre-dexed\debug\classes-a9aa580e0695ec7caacb6c9b6e08659d59dce392.jar" />
+    </item>
+    <item
+        jar="E:\VISHAL\ANDRODI_STUDIO_WORKSPACE\HD_VIDEO\HDVideoStartapp\libs\StartAppInApp-3.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4c50fdd50140ff8a7af07e8fb3f9b5814dcf0f09">
+        <dex dex="E:\VISHAL\ANDRODI_STUDIO_WORKSPACE\HD_VIDEO\HDVideoStartapp\build\intermediates\pre-dexed\debug\StartAppInApp-3.1.0-0cfa4c8304adba457173d7d3d8f9d84a38f391d2.jar" />
+    </item>
+    <item
+        jar="E:\VISHAL\ANDRODI_STUDIO_WORKSPACE\HD_VIDEO\HDVideoAdmob\build\intermediates\exploded-aar\HD_VIDEO\google-play-services_lib\unspecified\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a2b54dbe22f4ab8940295f9e6e3c7459d728f8ee">
+        <dex dex="E:\VISHAL\ANDRODI_STUDIO_WORKSPACE\HD_VIDEO\HDVideoAdmob\build\intermediates\pre-dexed\debug\classes-2c6ada80256bc9049b11e92aea55af2dcbe527c3.jar" />
+    </item>
+    <item
+        jar="E:\VISHAL\ANDRODI_STUDIO_WORKSPACE\HD_VIDEO\HDVideoAdmob\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5896b0a4e377ac4242eb2bc785220c1c4fc052f4">
+        <dex dex="E:\VISHAL\ANDRODI_STUDIO_WORKSPACE\HD_VIDEO\HDVideoAdmob\build\intermediates\pre-dexed\debug\android-support-v4-4e761068ff9f5d10e07a3871ddb97db69d8e3e0e.jar" />
+    </item>
+    <item
+        jar="E:\VISHAL\ANDRODI_STUDIO_WORKSPACE\HD_VIDEO\HDVideoStartapp\libs\libGoogleAnalyticsServices.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e887c6c9b31b39a39b0eaba981448b78902ea813">
+        <dex dex="E:\VISHAL\ANDRODI_STUDIO_WORKSPACE\HD_VIDEO\HDVideoStartapp\build\intermediates\pre-dexed\debug\libGoogleAnalyticsServices-1d8caaaa6331139f70afe23eb5622c8d4f6d1530.jar" />
+    </item>
+    <item
+        jar="E:\VISHAL\ANDRODI_STUDIO_WORKSPACE\HD_VIDEO\HDVideo\libs\StartAppInApp-3.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4c50fdd50140ff8a7af07e8fb3f9b5814dcf0f09">
+        <dex dex="E:\VISHAL\ANDRODI_STUDIO_WORKSPACE\HD_VIDEO\HDVideo\build\intermediates\pre-dexed\debug\StartAppInApp-3.1.0-81186c1e40f772004e9ab0bc764be3d559afd7de.jar" />
+    </item>
+    <item
+        jar="E:\VISHAL\ANDRODI_STUDIO_WORKSPACE\HD_VIDEO\HDVideoAdmob\build\intermediates\exploded-aar\HD_VIDEO\google-play-services_lib\unspecified\libs\google-play-services.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7676c0cb230efa6ac41c47867d372ed5913029d4">
+        <dex dex="E:\VISHAL\ANDRODI_STUDIO_WORKSPACE\HD_VIDEO\HDVideoAdmob\build\intermediates\pre-dexed\debug\google-play-services-5261d469ac07b68556678b44e5a739a885306302.jar" />
+    </item>
+    <item
+        jar="E:\VISHAL\ANDRODI_STUDIO_WORKSPACE\HD_VIDEO\HDVideo\build\intermediates\exploded-aar\HD_VIDEO\actionbarsherlock\unspecified\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a4e1142aa8cbc3f4367e700fd2d3afe933d0c85c">
+        <dex dex="E:\VISHAL\ANDRODI_STUDIO_WORKSPACE\HD_VIDEO\HDVideo\build\intermediates\pre-dexed\debug\classes-14d83f38cdd21608a12d443b4579204bee6cc247.jar" />
+    </item>
+    <item
+        jar="E:\VISHAL\ANDRODI_STUDIO_WORKSPACE\HD_VIDEO\HDVideoAdmob\build\intermediates\exploded-aar\HD_VIDEO\actionbarsherlock\unspecified\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a4e1142aa8cbc3f4367e700fd2d3afe933d0c85c">
+        <dex dex="E:\VISHAL\ANDRODI_STUDIO_WORKSPACE\HD_VIDEO\HDVideoAdmob\build\intermediates\pre-dexed\debug\classes-70c5c9ef6e467cb81d4e92bd8f6d7bbf80257c49.jar" />
+    </item>
+    <item
+        jar="E:\VISHAL\ANDRODI_STUDIO_WORKSPACE\HD_VIDEO\HDVideoAdmob\libs\Parse-1.4.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8daf146aea8cd5245bb90f802f2cd4b8dd855eca">
+        <dex dex="E:\VISHAL\ANDRODI_STUDIO_WORKSPACE\HD_VIDEO\HDVideoAdmob\build\intermediates\pre-dexed\debug\Parse-1.4.3-d4b51469c8e4cc3f81606a18f6dd726722192558.jar" />
+    </item>
+    <item
+        jar="E:\VISHAL\ANDRODI_STUDIO_WORKSPACE\HD_VIDEO\HDVideo\build\intermediates\exploded-aar\HD_VIDEO\actionbarsherlock\unspecified\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5896b0a4e377ac4242eb2bc785220c1c4fc052f4">
+        <dex dex="E:\VISHAL\ANDRODI_STUDIO_WORKSPACE\HD_VIDEO\HDVideo\build\intermediates\pre-dexed\debug\android-support-v4-e7414e10ce4f2a67c308b9fbda651aff6b2aca73.jar" />
+    </item>
+    <item
+        jar="E:\VISHAL\ANDRODI_STUDIO_WORKSPACE\HD_VIDEO\HDVideoStartapp\build\intermediates\exploded-aar\HD_VIDEO\actionbarsherlock\unspecified\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a4e1142aa8cbc3f4367e700fd2d3afe933d0c85c">
+        <dex dex="E:\VISHAL\ANDRODI_STUDIO_WORKSPACE\HD_VIDEO\HDVideoStartapp\build\intermediates\pre-dexed\debug\classes-c926f7b068fa8ad6b58e10392c85d78dcc360fb8.jar" />
+    </item>
+    <item
+        jar="E:\VISHAL\ANDRODI_STUDIO_WORKSPACE\HD_VIDEO\HDVideoAdmob\libs\libGoogleAnalyticsServices.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e887c6c9b31b39a39b0eaba981448b78902ea813">
+        <dex dex="E:\VISHAL\ANDRODI_STUDIO_WORKSPACE\HD_VIDEO\HDVideoAdmob\build\intermediates\pre-dexed\debug\libGoogleAnalyticsServices-4d854dd975c8f8fc545bf3d56fcfd48cde3ba9e2.jar" />
+    </item>
+    <item
+        jar="E:\VISHAL\ANDRODI_STUDIO_WORKSPACE\HD_VIDEO\HDVideo\libs\Parse-1.4.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8daf146aea8cd5245bb90f802f2cd4b8dd855eca">
+        <dex dex="E:\VISHAL\ANDRODI_STUDIO_WORKSPACE\HD_VIDEO\HDVideo\build\intermediates\pre-dexed\debug\Parse-1.4.3-af14b0f03b5440950482d319b1942577bf6bfeab.jar" />
+    </item>
+
+</items>

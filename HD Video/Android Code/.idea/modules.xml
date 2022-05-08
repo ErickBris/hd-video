@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HDVideo/HDVideo.iml" filepath="$PROJECT_DIR$/HDVideo/HDVideo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HDVideoAdmob/HDVideoAdmob.iml" filepath="$PROJECT_DIR$/HDVideoAdmob/HDVideoAdmob.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HDVideoStartapp/HDVideoStartapp.iml" filepath="$PROJECT_DIR$/HDVideoStartapp/HDVideoStartapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HD_VIDEO.iml" filepath="$PROJECT_DIR$/HD_VIDEO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/actionbarsherlock/actionbarsherlock.iml" filepath="$PROJECT_DIR$/actionbarsherlock/actionbarsherlock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/google-play-services_lib/google-play-services_lib.iml" filepath="$PROJECT_DIR$/google-play-services_lib/google-play-services_lib.iml" />
+    </modules>
+  </component>
+</project>

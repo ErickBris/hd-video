@@ -1,0 +1,8 @@
+E:\VISHAL\ANDRODI_STUDIO_WORKSPACE\HD_VIDEO\HDVideo\build\intermediates\classes\debug
+E:\VISHAL\ANDRODI_STUDIO_WORKSPACE\HD_VIDEO\HDVideo\build\intermediates\pre-dexed\debug\classes-a9aa580e0695ec7caacb6c9b6e08659d59dce392.jar
+E:\VISHAL\ANDRODI_STUDIO_WORKSPACE\HD_VIDEO\HDVideo\build\intermediates\pre-dexed\debug\classes-14d83f38cdd21608a12d443b4579204bee6cc247.jar
+E:\VISHAL\ANDRODI_STUDIO_WORKSPACE\HD_VIDEO\HDVideo\build\intermediates\pre-dexed\debug\Parse-1.4.3-af14b0f03b5440950482d319b1942577bf6bfeab.jar
+E:\VISHAL\ANDRODI_STUDIO_WORKSPACE\HD_VIDEO\HDVideo\build\intermediates\pre-dexed\debug\android-support-v4-e7414e10ce4f2a67c308b9fbda651aff6b2aca73.jar
+E:\VISHAL\ANDRODI_STUDIO_WORKSPACE\HD_VIDEO\HDVideo\build\intermediates\pre-dexed\debug\libGoogleAnalyticsServices-3ea21cd6ee3844fba77bf57745e3b0e4760c7f06.jar
+E:\VISHAL\ANDRODI_STUDIO_WORKSPACE\HD_VIDEO\HDVideo\build\intermediates\pre-dexed\debug\StartAppInApp-3.1.0-81186c1e40f772004e9ab0bc764be3d559afd7de.jar
+E:\VISHAL\ANDRODI_STUDIO_WORKSPACE\HD_VIDEO\HDVideo\build\intermediates\pre-dexed\debug\google-play-services-9104a59bd00c946b86d10bd950f3ca7afad38685.jar

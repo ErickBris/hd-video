@@ -1,0 +1,5 @@
+include ':HDVideoAdmob'
+include ':HDVideoStartapp'
+include ':HDVideo'
+include ':google-play-services_lib'
+include ':actionbarsherlock'

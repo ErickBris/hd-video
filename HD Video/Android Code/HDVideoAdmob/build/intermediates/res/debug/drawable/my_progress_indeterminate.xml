@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-rotate xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/image_for_rotation"
+    android:pivotX="50%"
+    android:pivotY="50%" />
+<!-- From: file:/E:/VISHAL/ANDRODI_STUDIO_WORKSPACE/HD_VIDEO/HDVideoAdmob/res/drawable/my_progress_indeterminate.xml -->
